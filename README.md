@@ -3,7 +3,8 @@
 When I was actively working on projects for Webacies, I created this responsive Non-Profit Organization Website for a charity organisation called Huis Betlehem pro-bono.
 
 ## Preview
-![image](https://user-images.githubusercontent.com/87696858/129077844-8d9d5221-620f-4c64-8088-f44f1952d1ba.png)
+### Desktop View:
+![image](https://user-images.githubusercontent.com/87696858/129078192-e527aa20-1e90-4ecf-8bd7-5ed99c2ab260.png)
 
-![image](https://user-images.githubusercontent.com/87696858/129077767-69e24af2-440f-44f6-9114-f73bf578a7d1.png)
-
+### Mobile View:
+![image](https://user-images.githubusercontent.com/87696858/129078163-2d2f2251-4e04-4009-99db-9a19304da891.png)
